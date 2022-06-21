@@ -5,7 +5,7 @@
 # geo.py: 8
 # levenshtein.py: 8
 # paths.py: 8
-numpy == 1.16.4
+numpy == 1.22.0
 
 # experiments.py: 8
 # experiments2.py: 8
